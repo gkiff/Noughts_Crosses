@@ -1,0 +1,15 @@
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/bin/Debug/net6.0/Noughts_Crosses
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/bin/Debug/net6.0/Noughts_Crosses.deps.json
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/bin/Debug/net6.0/Noughts_Crosses.runtimeconfig.json
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/bin/Debug/net6.0/Noughts_Crosses.dll
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/bin/Debug/net6.0/Noughts_Crosses.pdb
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.csproj.AssemblyReference.cache
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.AssemblyInfoInputs.cache
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.AssemblyInfo.cs
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.csproj.CoreCompileInputs.cache
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.dll
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/refint/Noughts_Crosses.dll
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.pdb
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/Noughts_Crosses.genruntimeconfig.cache
+/Users/KiffG/RiderProjects/Noughts_Crosses/Noughts_Crosses/obj/Debug/net6.0/ref/Noughts_Crosses.dll

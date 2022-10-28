@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Noughts_Crosses/1.0.0": {
+        "runtime": {
+          "Noughts_Crosses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Noughts_Crosses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
